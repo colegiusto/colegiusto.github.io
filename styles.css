@@ -1,0 +1,51 @@
+body {
+  
+  background: #f2f2f2;
+  color: #444444;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  text-shadow: 0 1px 0 #ffffff;
+  
+}
+.content{
+    margin: 5% auto;
+    max-width: 73%;
+
+}
+code {
+  background: white;
+}
+a {
+  border-bottom: 1px solid #444444;
+  color: #444444;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 0;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #1e32e0;
+  color: white;
+}
