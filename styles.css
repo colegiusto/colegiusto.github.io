@@ -12,8 +12,13 @@ h2,
 h3 {
   line-height: 1.2;
 }
+
 /* Add styling for the top menu bar */
 .top-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     background-color: #f1f1f1;
     overflow: hidden;
     display: flex;
