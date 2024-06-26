@@ -1,5 +1,4 @@
 body {
-  margin: 40px auto;
   max-width: 650px;
   line-height: 1.6;
   font-size: 18px;
@@ -11,6 +10,10 @@ h1,
 h2,
 h3 {
   line-height: 1.2;
+}
+
+.main{
+    margin: 40px auto;
 }
 
 .top-menu {
@@ -28,4 +31,9 @@ h3 {
 .top-menu li {
   display: inline;
   margin-right: 10px;
+  
+}
+.top-menu li :hover{
+  background-color: #555;
+  color: #fff;
 }
