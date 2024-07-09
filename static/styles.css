@@ -5,8 +5,7 @@
     --titlebar-color-dark: rgb(28, 28, 28);
 }
 *{
-    font-family: "Source Sans 3", Arial, Helvetica, sans-serif;
-}
+    font-family: 'Fira Code';}
 
 body{
     padding: 0;
