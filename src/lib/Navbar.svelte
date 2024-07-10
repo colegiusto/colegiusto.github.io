@@ -3,9 +3,7 @@
 </script>
 
 <nav class="container">
-    <div style="margin-right: auto;">
-        <a href="/" , >Cole Giusto</a>
-    </div>
+    <a href="/" style="margin-right: auto;" , >Cole Giusto</a>
     <div class="tab" class:selected={$page.url.pathname === "/"}>
         <a href="/" class="tab">home</a>
         <div class="uline"></div>
@@ -33,7 +31,7 @@
     user-select: none;
   }
   .container a {
-    justify-content: center;
+    justify-content: center center;
     align-content: center;
 
     padding: 1em;
@@ -49,9 +47,9 @@
   .uline {
     margin: auto;
     position: relative;
-    top: 0em;
+    top: calc(2em + .3em);
     width: 0;
-    height: 0.08em;
+    height: 0.1em;
     border-radius: 0.05em;
     background-color: azure;
     transition-duration: 0.01s;

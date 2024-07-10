@@ -2,5 +2,5 @@
     import { page } from '$app/stores';
 </script>
 
-<h1>{$page.status} {$page.error.message}</h1>
-<div>:{'{'}</div> 
+<h1>{$page.status} {$page.error.message.toLowerCase()}</h1>
+<a href="/">click here to return to home</a>
