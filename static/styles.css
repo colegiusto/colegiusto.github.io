@@ -1,11 +1,13 @@
 :root{
-    --background-color: rgb(220, 220, 220);
-    --titlebar-color: rgb(36, 36, 36);
+    --background-color: #282a36;
+    --titlebar-color: #44475a;
+    --text-color: #f8f8f2;
     --titlebar-color-light: rgb(50, 50, 50);
     --titlebar-color-dark: rgb(28, 28, 28);
 }
 *{
-    font-family: 'Fira Code';}
+    font-family: 'Fira Code';
+    color: var(--text-color);}
 
 body{
     padding: 0;
