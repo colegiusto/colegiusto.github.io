@@ -1,8 +1,6 @@
 <script>
   import Footer from "../lib/Footer.svelte";
   import Navbar from "../lib/Navbar.svelte";
-
-  export const prerender = true;
 </script>
 
 <Navbar />
