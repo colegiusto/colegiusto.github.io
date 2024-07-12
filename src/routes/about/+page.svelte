@@ -1,5 +1,9 @@
 <h2>About</h2>
-<div>
-    i'm an Undergraduate Mechanical Engineering student at UC Santa Barbara. i'm interested in
-    controls, robotics, and artificial intelligence.
-</div>
+<p>
+    I'm an Undergraduate Mechanical Engineering student at UC Santa Barbara. I'm interested in
+    controls, robotics, and artificial intelligence. 
+</p>
+<p>
+    I'm a member of <a href="dwab.dev">DWAB Devs</a>, a team of friends who are passionate about game development, 
+    engineering, and computer science.
+</p>

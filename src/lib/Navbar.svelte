@@ -51,7 +51,7 @@
     width: 0;
     height: 0.1em;
     border-radius: 0.05em;
-    background-color: azure;
+    background-color: var(--text-color);
     transition-duration: 0.01s;
   }
   .selected > .uline,
