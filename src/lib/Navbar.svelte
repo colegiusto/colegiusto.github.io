@@ -3,7 +3,7 @@
 </script>
 
 <nav class="container">
-    <a href="/" style="margin-right: auto;" , >Cole Giusto</a>
+    <a href="/" style="margin-right: auto;" >Cole Giusto</a>
     <div class="tab" class:selected={$page.url.pathname === "/"}>
         <a href="/" class="tab">home</a>
         <div class="uline"></div>
