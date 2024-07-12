@@ -2,10 +2,12 @@
     --background-color: #282a36;
     --titlebar-color: #44475a;
     --text-color: #f8f8f2;
+    --link-color: #ff5555;
 }
 *{
     font-family: 'Fira Code';
-    color: var(--text-color);}
+    color: var(--text-color);
+}
 
 body{
     padding: 0;
@@ -25,4 +27,7 @@ h2{
     font-weight: normal;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+}
+a{
+    color: var(--link-color);
 }
