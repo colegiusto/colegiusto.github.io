@@ -8,4 +8,8 @@
     engineering, and computer science.
 </p>
 <h2>This Site</h2>
-<p>This site was created using <a href="https://kit.svelte.dev">SvelteKit</a> and is hosted on GitHub Pages.</p>
+<p>
+    This is my personal website where I share my projects and ideas in an easily accessible format.
+    The site was created using <a href="https://kit.svelte.dev">SvelteKit</a> and is hosted on <a href="https://pages.github.com">GitHub Pages</a>.
+
+</p>
